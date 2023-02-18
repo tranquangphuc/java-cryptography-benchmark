@@ -1,0 +1,2 @@
+JMH S 45 tech.tinhvi.cryptography.AesCbcPKCS5Benchmark S 78 tech.tinhvi.cryptography.jmh_generated.AesCbcPKCS5Benchmark_testMethod_jmhTest S 10 testMethod S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 40 tech.tinhvi.cryptography.AesGcmBenchmark S 73 tech.tinhvi.cryptography.jmh_generated.AesGcmBenchmark_testMethod_jmhTest S 10 testMethod S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
